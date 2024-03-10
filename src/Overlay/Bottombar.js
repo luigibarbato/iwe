@@ -1,4 +1,3 @@
-import QrCode from "react-qrcode-svg";
 import { useMainStore } from "../store";
 
 export const BottomBar = () => {

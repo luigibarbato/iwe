@@ -14,7 +14,7 @@
   --s-10: 24px;
 }
 
-@font-face {
+/* @font-face {
   font-family: FragmentSin;
   src: url("/fonts/PPFragment-Variable.woff2") format("woff2"),
     url("/fonts/PPFragment-Variable.woff") format("woff");
@@ -22,7 +22,7 @@
 @font-face {
   font-family: Formula;
   src: url("/fonts/formula.woff") format("woff");
-}
+} */
 
 * {
   margin: 0;
