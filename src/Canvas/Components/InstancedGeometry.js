@@ -80,7 +80,7 @@ export const Boxes2 = ({ length = 48, ...props }) => {
 const Material = () => {
   const materialRef = useRef();
   const colorRef = useRef(1);
-  useFrame((state) => {});
+  useFrame((state) => { });
   return (
     <LayerMaterial
       lighting="physical"
